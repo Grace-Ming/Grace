@@ -1,4 +1,0 @@
-﻿  源.cpp
-D:\练习\711\711\源.cpp(205,6): warning C4273: “qsort”: dll 链接不一致
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(60,23): message : 参见“qsort”的前一个定义
-  711.vcxproj -> D:\练习\711\x64\Debug\711.exe
