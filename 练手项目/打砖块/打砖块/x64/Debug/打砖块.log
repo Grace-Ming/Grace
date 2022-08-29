@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\羽\Desktop\练手项目\打砖块\打砖块\Bricks.h(1,1): warning C4828: 文件包含在偏移 0x2fd 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  bricksGame.cpp
+C:\Users\羽\Desktop\练手项目\打砖块\打砖块\Bricks.h(1,1): warning C4828: 文件包含在偏移 0x2fd 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  打砖块.vcxproj -> C:\Users\羽\Desktop\练手项目\打砖块\x64\Debug\打砖块.exe
